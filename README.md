@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1672-richest-customer-wealth](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3701-compute-alternating-sum](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3701-compute-alternating-sum](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3701-compute-alternating-sum) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
