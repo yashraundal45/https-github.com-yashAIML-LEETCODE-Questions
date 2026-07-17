@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2235-add-two-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
