@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0204-count-primes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1089-duplicate-zeros](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1089-duplicate-zeros) |
+| [1512-number-of-good-pairs](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1929-concatenation-of-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3467-transform-array-by-parity](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3467-transform-array-by-parity) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2469-convert-the-temperature) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
