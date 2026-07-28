@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3894-traffic-signal-color](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1929-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3701-compute-alternating-sum) |
+| [3894-traffic-signal-color](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3894-traffic-signal-color) |
 ## Matrix
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3894-traffic-signal-color](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
 |  |
 | ------- |
