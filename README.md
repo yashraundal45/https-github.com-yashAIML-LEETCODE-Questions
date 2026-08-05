@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0434-number-of-segments-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1108-defanging-an-ip-address) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1929-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3701-compute-alternating-sum) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0628-maximum-product-of-three-numbers) |
