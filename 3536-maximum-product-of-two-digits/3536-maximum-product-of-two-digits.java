@@ -1,6 +1,5 @@
 class Solution {
     public int maxProduct(int n) {
-        int s = n;
         ArrayList<Integer> store = new ArrayList<>();
         while(n!=0){
             int ld = n % 10;
