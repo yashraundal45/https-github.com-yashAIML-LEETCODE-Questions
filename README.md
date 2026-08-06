@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3516-find-closest-person](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3894-traffic-signal-color) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
