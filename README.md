@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0877-stone-game) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0441-arranging-coins](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Simulation
 |  |
 | ------- |
