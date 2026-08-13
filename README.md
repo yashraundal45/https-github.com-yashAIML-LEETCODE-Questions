@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0202-happy-number) |
 | [1512-number-of-good-pairs](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3731-find-missing-elements](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3731-find-missing-elements) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0441-arranging-coins) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0202-happy-number) |
 | [1089-duplicate-zeros](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1089-duplicate-zeros) |
 ## Enumeration
 |  |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
