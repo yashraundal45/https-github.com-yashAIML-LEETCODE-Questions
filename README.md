@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1539-kth-missing-positive-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
