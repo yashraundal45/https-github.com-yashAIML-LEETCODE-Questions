@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0204-count-primes) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0441-arranging-coins](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0704-binary-search) |
