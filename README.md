@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1929-concatenation-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3701-compute-alternating-sum](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3894-traffic-signal-color) |
 ## Matrix
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2469-convert-the-temperature) |
