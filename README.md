@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0011-container-with-most-water) |
 | [0142-linked-list-cycle-ii](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0202-happy-number) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
