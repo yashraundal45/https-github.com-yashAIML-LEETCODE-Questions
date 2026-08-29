@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2574-left-and-right-sum-differences](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/2574-left-and-right-sum-differences) |
 ## Euclidean Algorithm
 |  |
 | ------- |
