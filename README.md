@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3467-transform-array-by-parity) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
