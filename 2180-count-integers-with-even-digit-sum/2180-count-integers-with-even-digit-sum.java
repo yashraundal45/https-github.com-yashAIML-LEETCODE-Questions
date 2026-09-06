@@ -1,6 +1,6 @@
 class Solution {
     public int countEven(int num) {
-        int count = 0;
+         int count = 0;
         for(int i=2;i<=num;i++){
             int sum = 0;
             int store = i;
@@ -12,6 +12,4 @@ class Solution {
         } 
         return count;
     }
-
-
 }
