@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0189-rotate-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0877-stone-game) |
 ## Recursion
