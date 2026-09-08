@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3731-find-missing-elements](https://github.com/yashAIML/https-github.com-yashAIML-LEETCODE-Questions/tree/master/3731-find-missing-elements) |
