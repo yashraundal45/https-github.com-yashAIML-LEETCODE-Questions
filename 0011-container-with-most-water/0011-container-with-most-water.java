@@ -1,6 +1,6 @@
-public class Solution {
+class Solution {
     public int maxArea(int[] height) {
-        int left = 0;
+       int left = 0;
         int right = height.length - 1;
         int maxWater = 0;
 
@@ -17,6 +17,6 @@ public class Solution {
                 right--;
             }
         }
-        return maxWater;
+        return maxWater; 
     }
 }
